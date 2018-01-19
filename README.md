@@ -26,6 +26,8 @@ make
 ./pbus2amcp
 ```
 
+![snapshot](snapshot.png)
+
 ## Authors
 
 * **Dimitry Ishenko** - dimitry (dot) ishenko (at) (gee) mail (dot) com
